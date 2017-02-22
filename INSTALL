@@ -1,0 +1,9 @@
+Building GeltCoin
+
+See doc/readme-qt.rst for instructions on building GeltCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GeltCoin.
+
+See doc/build-*.txt for instructions on building GeltCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GeltCoin.
